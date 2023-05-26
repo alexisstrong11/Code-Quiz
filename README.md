@@ -11,6 +11,7 @@ This project allowed me to use what I've learned from advanced CSS styling and J
 - [Website Preview](#website-preview)
 - [Credits](#credits)
     - [Markdown Reference](#markdown-reference)
+    - [Coding Nepal](#coding-nepal)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
 - - - -
@@ -25,6 +26,9 @@ NOTE: *I participated in multiple study groups and received help from the instru
 
 ### Markdown Reference
 [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md/ "Markdown Cheatsheet")
+
+### Coding Nepal
+[Coding Nepal](https://www.codingnepalweb.com/quiz-app-with-timer-javascript/ "Coding Nepal")
 
 - - - - 
 ## **License**
