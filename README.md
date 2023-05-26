@@ -15,7 +15,7 @@ This project allowed me to use what I've learned from advanced CSS styling and J
 - [How to Contribute](#how-to-contribute)
 - - - -
 ## **Usage**
-To access my project, click "Code Quiz" shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below.
+To access my project, click "Code Quiz" shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. Once you click the start button, a timer will start and a series of questions will show up, one at a time. 
 - - - -
 ## **Website Preview**
 [Code Quiz](https://alexisstrong11.github.io/Code-Quiz/)

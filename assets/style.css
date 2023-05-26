@@ -1,0 +1,36 @@
+body{
+    background-color:palegreen;
+    color:green
+}
+
+#start_btn {
+position: absolute;
+top: 50%;
+left: 50%;
+}
+
+#start_btn button
+{
+color: green;
+background:pink;
+font-size: 15px;
+padding: 10px 30px;
+border-radius:15px;
+cursor: pointer;
+}
+
+.instruction-box{
+background-color:pink;
+width: 460px;
+border-radius: 5px;
+}
+
+.quiz{
+    display: block;
+    height: 480px;
+    position: relative;
+}
+#quiz #quiz-header{
+    height: 60px;
+    width: 100%;
+}
